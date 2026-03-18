@@ -1,0 +1,1 @@
+整个blog只有一个index.php文件，posts是md文章目录
